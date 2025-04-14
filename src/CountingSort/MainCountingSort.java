@@ -2,7 +2,7 @@ package CountingSort;
 
 public class MainCountingSort {
     public static void main(String[] args) {
-        int[] lista = { 32, 54, 13, 12, 4443, 546, 7534, 65, 34, 24, 67, 74, 34, };
+        int[] lista = { 32, 54, 13, 12, 4443, 546, 7534, 65, 34, 24, 67, 74, 34};
 
         lista = coutingSort(lista);
 
